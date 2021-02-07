@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Besser Texten. - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2021-02-06T22:00:00+01:00</updated><entry><title>Team-Mediation</title><link href="/team-mediation.html" rel="alternate"></link><published>2021-02-06T22:00:00+01:00</published><updated>2021-02-06T22:00:00+01:00</updated><author><name>Rüdiger</name></author><id>tag:None,2021-02-06:/team-mediation.html</id><summary type="html">&lt;p&gt;Category: Mediation
-Tags: Führung, Team-Mediation
-Slug: WEißnicht
-Authors: Der wo geheim ist
-Summary: Was wirklich passieren muss, damit das Team wieder in Frieden arbeitet.&lt;/p&gt;
-&lt;h1&gt;Teammediation&lt;/h1&gt;
-&lt;p&gt;Wenn im Team ein Konflikt ausbricht, versuchen viele Teamleiter zu erreichen, dass so schnell wie möglich Ruhe und Frieden eintreten.&lt;/p&gt;
-&lt;p&gt;Wir glauben, dass ist das …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Category: Mediation
-Tags: Führung, Team-Mediation
-Slug: WEißnicht
-Authors: Der wo geheim ist
-Summary: Was wirklich passieren muss, damit das Team wieder in Frieden arbeitet.&lt;/p&gt;
-&lt;h1&gt;Teammediation&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Besser Texten. - Mediation</title><link href="/" rel="alternate"></link><link href="/feeds/mediation.atom.xml" rel="self"></link><id>/</id><updated>2021-02-07T19:30:00+01:00</updated><entry><title>Team-Mediation</title><link href="/Team-Mediation%20als%20Konfliktmanagement.html" rel="alternate"></link><published>2021-02-06T19:00:00+01:00</published><updated>2021-02-07T19:30:00+01:00</updated><author><name>Rüdiger Hausmann</name></author><id>tag:None,2021-02-06:/Team-Mediation als Konfliktmanagement.html</id><summary type="html">&lt;p&gt;Team-Mediation ist nicht das, was du denkst. Es geht darum, Konflikte als Chance zur positiven Veränderung zu verstehen. Was wirklich passieren muss, damit das Team wieder in Frieden arbeitet.&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Team-Mediation&lt;/h1&gt;
 &lt;p&gt;Wenn im Team ein Konflikt ausbricht, versuchen viele Teamleiter zu erreichen, dass so schnell wie möglich Ruhe und Frieden eintreten.&lt;/p&gt;
 &lt;p&gt;Wir glauben, dass ist das beste Mittel, damit der Konflikt so richtig eskaliert.
 Kannst du dich noch erinnern, früher im Kindergarten? Dieser eine blöde Junge, der dich ständig geärgert und deine Sachen weggeommen hat? Du hast dich gewehrt, und dann kam irgendwann ein Erwachsener und meinte: 'so, jetzt vertragt euch mal wieder, entschuldigt euch beieinander und gebt euch schön die Hand!'&lt;/p&gt;
@@ -62,4 +50,4 @@ Tatsächlich denken wir, dass beides wichtig ist: Dass man den Kollegen mal sagt
 &lt;h2&gt;Leistungen&lt;/h2&gt;
 &lt;p&gt;Infogespräch, Auftragsklärungsgespräch,ggfs. Vorgespräche mit Konfliktbeteiligten, Durchführung Mediation, Mediationsprotokoll, Auswertungsgespräch&lt;/p&gt;
 &lt;h2&gt;CTA Let's talk!&lt;/h2&gt;
-&lt;p&gt;(Kurzversion kann auch davon in die 'Besser-STreiten'-Box auf der STartseite)&lt;/p&gt;</content><category term="misc"></category></entry></feed>
+&lt;p&gt;(Kurzversion kann auch davon in die 'Besser-STreiten'-Box auf der STartseite)&lt;/p&gt;</content><category term="Mediation"></category><category term="Team"></category><category term="Führung"></category><category term="Konflikt"></category></entry></feed>
