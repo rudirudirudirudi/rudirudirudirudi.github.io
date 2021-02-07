@@ -19,7 +19,7 @@ Ich glaube nicht, und hier ist warum:
 - Ein offener Konflikt weist darauf hin, dass Interessen und Bedürfnisse mindestens einer Person so stark eingeschränkt sind, diese den Schritt wagt und sich zur Wehr setzt. 
 - Wenn ich jetzt darum bitten würde, sich doch bitte mal zusammen zu reißen, erwische ich die betreffende Person total auf dem falschen Fuss: Entweder frißt sie den Ärger nun in sich rein, intrigiert subkutan oder wird nun so richtig wütend. Nichts davon hilft, den Konflikt zu beenden.
 - Es ist wie eine Wunde, die ich zunähe, obwohl die Operation noch nicht abgeschlossen ist. 'Oh, da ist noch Dreck in der Wunde... ach, das tut jetzt zu weh, den rauszumachen, schnell, Pflaster drauf...'. Man sieht es nicht sofort, aber die pathologische Entwicklung geht weiter...
-- Ich muss dem Konflikt wirklich auf den Grund gehen, bevor ich die Rekonvalesznesphase einläuten kann.
+- Ich muss dem Konflikt wirklich auf den Grund gehen, bevor ich die Rekonvaleszensphase einläuten kann.
 - In diesem Sinn ist ein Konflikt ein Gewinn, ein Schatz: Arbeitskonflikte verweisen (fast) immer darauf, dass alte Vereinbrungen, Abäufe usw. nicht ganz passend sind und den Flow behindern. Wenn ich den Konflikt nun bearbeite, nicht nur den Anlass, sondern nach dem tieferen Grund suche, werde ich auf diesen Schatz stoßen. 
 
 ## Was heißt das für dich?
