@@ -1,12 +1,13 @@
 Title: Team-Mediation
-Date: 2021-02-06 22:00
-
+Date: 2021-02-06 19:00
+Modified: 2021-02-07 19:30
 Category: Mediation
-Tags: Führung, Team-Mediation
-Slug: WEißnicht
-Authors: Der wo geheim ist
-Summary: Was wirklich passieren muss, damit das Team wieder in Frieden arbeitet.
-# Teammediation
+Tags: Team, Führung, Konflikt
+Slug: Team-Mediation als Konfliktmanagement
+Authors: Rüdiger Hausmann
+Summary: Team-Mediation ist nicht das, was du denkst. Es geht darum, Konflikte als Chance zur positiven Veränderung zu verstehen. Was wirklich passieren muss, damit das Team wieder in Frieden arbeitet.
+
+# Team-Mediation
 Wenn im Team ein Konflikt ausbricht, versuchen viele Teamleiter zu erreichen, dass so schnell wie möglich Ruhe und Frieden eintreten.
 
 Wir glauben, dass ist das beste Mittel, damit der Konflikt so richtig eskaliert.
